@@ -1,4 +1,4 @@
-#v0.3 Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Quilt of Registries and Verified AgentFacts
+# v0.3 Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Quilt of Registries and Verified AgentFacts
 
 **Ramesh Raskar** (raskar@media.mit.edu), **Pradyumna Chari** (pchari@media.mit.edu), **Jared James Grogan** (jared.grogan@post.harvard.edu), **Mahesh Lambe** (mahesh@unifydynamics.com), **Rajesh Ranjan** (Rajeshr2@tepper.cmu.edu), **John Zinky** (jzinky@akamai.com), **Rekha Singhal** (rekha.singhal@tcs.com), **Shailja Gupta** (Shailjag@tepper.cmu.edu), **Robert Lincourt** (robert.lincourt@dell.com), **Raghu Bala** (raghu@synergetics.ai), **Abhishek Singh** (abhi24@media.mit.edu), **Ayush Chopra** (ayushc@media.mit.edu), **Dimitris Stripelis** (dimitris@flower.ai), **Bhuwan B** (bhuwan.b@hcltech.com), **Sumit Kumar** (sumit-k@hcltech.com), **Maria Gorskikh** (Maria.gorskikh1@gmail.com), **Sichao Wang** (wangcan@cisco.com)
 
