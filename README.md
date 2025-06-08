@@ -25,6 +25,9 @@ At a high level, the registry transforms the complexity of a fully connected N×
 
 The current Domain Name System (DNS), foundational to the internet since 1983, was designed for static web infrastructure, not the dynamic, context-aware operation of autonomous AI agents[cite: 21]. As we envision a future with trillions of interoperable agents, DNS becomes a bottleneck in scale and architectural assumptions[cite: 22]. We argue that an open, agentic internet cannot be realized within the constraints of DNS[cite: 23]. We propose a new system that decouples identity from metadata, supports multi-hop resolution, and provides a flexible substrate for agent discovery, routing, and capability negotiation[cite: 24]. This infrastructure is a prerequisite for the agentic web itself[cite: 25].
 
+ <img width="236" alt="image" src="https://github.com/user-attachments/assets/390e2ace-5d8f-4c5c-9e97-8ab0c754c583" />
+
+
 We view the NANDA registry as a **quilt of agents, resources, and tools** across platforms, organizations, and protocols[cite: 27]. This approach allows for global interoperability, discoverability, and flexible governance of agents[cite: 28]. NANDA need not authenticate, authorize, and govern all agents on the internet of AI agents[cite: 28]. Commercial, governmental, and individual entities can determine whether agents are directly certified and visible via the NANDA registry, or if the NANDA registry merely holds a redirect to their platforms, allowing them deeper control over their agents[cite: 29].
 
 ***
